@@ -1,0 +1,59 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+div{
+    margin-bottom: 30px;
+}
+
+.first{
+    padding : 20px  ;
+    margin: 0px 100px 30px 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: left;
+    width: 450px;
+}
+.first button{
+    background-color: green;
+    border-radius: 30px;
+}
+.first button:hover{
+    background-color: darkgreen;
+    cursor: pointer;
+}
+
+.sec{
+    padding : 20px  ;
+    margin: 0px 100px 30px 100px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: left;
+    width: 450px;
+}
+.sec button{
+    background-color: orange;
+    border-radius: 30px;
+}
+.sec button:hover{
+    background-color: darkgoldenrod;
+    cursor: pointer;
+}
+
+.third{
+    padding : 20px  ;
+    margin: 0px 100px 30px 100px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: left;
+    width: 450px;
+}
+.third button{
+    background-color: rgb(204, 26, 204);
+    border-radius: 30px;
+}
+.third button:hover{
+    background-color: rgb(105, 3, 110);
+    cursor: pointer;
+}

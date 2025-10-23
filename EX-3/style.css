@@ -1,0 +1,14 @@
+/* TODO */
+div{
+    text-align: center;
+}
+button{
+    padding: 8px 16px;
+    border-radius: 15px;
+    background-color: palevioletred;
+    cursor: pointer;
+    border: solid rgb(216, 74, 122) 3px;
+}
+button:hover{
+    background-color: rgb(193, 33, 86);
+}
